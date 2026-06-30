@@ -2,8 +2,8 @@
 
 🌱 Aspiring Game Developer crafting worlds one bug fix at a time
 
-- 🕹️ Building games with **Unity** & **C#**
-- ⚙️ Also tinkering in **C++**
+- 🕹️ Building games with **Unity** & **C# / C++**
+- ⚙️ Also tinkering in **Android Studio**
 - 🌐 Dabbling in **JavaScript**, **HTML** & **CSS** for web stuff
 - 🐱 Cat parent & professional treat dispenser
 - 🎨 When not coding, you'll find me elbow-deep in arts & crafts
