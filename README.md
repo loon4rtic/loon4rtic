@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋🎮
+# Hi there, I'm shayn 👋🎮
 
 🌱 Aspiring Game Developer crafting worlds one bug fix at a time
 
